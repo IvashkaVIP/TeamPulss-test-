@@ -34,7 +34,7 @@ export const DiaryExercises = ({ children }) => {
   return (
     <ContainerEx>
       <TitleMainEx>
-        <SubTitleEx>Execrcises</SubTitleEx>
+        <SubTitleEx>Exercises</SubTitleEx>
         <StyledLinkEx to="/first">
           <AddProductEx>Add exercise</AddProductEx>
           <IconWrapperEx color="#E6533C">
